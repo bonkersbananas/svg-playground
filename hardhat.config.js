@@ -42,7 +42,7 @@ const networkList = !privateKey || !alchemyApiUrl
     };
 
 module.exports = {
-    solidity: "0.8.13",
+    solidity: "0.8.9",
     defaultNetwork: defaultNetwork,
     networks: { ...networkList,
         hardhat: {},
