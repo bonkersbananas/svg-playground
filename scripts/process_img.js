@@ -1,8 +1,6 @@
 const fs = require('fs')
 const path = require('path');
-// const uuid = require('uuid');
 const { v4: uuidv4 } = require('uuid');
-
 
 const changeSvgColor = () => {
   try {
@@ -17,6 +15,7 @@ const changeSvgColor = () => {
     //   `rgba(${r},${g},${b},${a})`
     // );
     const hex = '#FFFF';
+    svgCode.
     coloredSvgXml = svgCode.replaceAll(
         "#317b4e",
         hex

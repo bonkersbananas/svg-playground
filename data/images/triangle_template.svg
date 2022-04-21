@@ -22,8 +22,8 @@
 </metadata>
 <defs>
 <radialGradient cx="403.824" cy="627.98" gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="userSpaceOnUse" id="RadialGradient" r="387.756">
-<stop id="stop1" offset="0" stop-color="#c93141"/>
-<stop id="stop2" offset="1" stop-color="#317b4e"/>
+<stop id="stop1" offset="0" stop-color=""/>
+<stop id="stop2" offset="1" stop-color=""/>
 </radialGradient>
 </defs>
 <g id="Layer-1-" vectornator:layerName="Layer 1 ''" visibility="hidden">
